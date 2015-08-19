@@ -17,7 +17,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kdebugsettings.git
 Package: kdebugsettings
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: An application to enable/disable qCDebug
+Description: application to enable/disable qCDebug settings
  Qt applications use QDebug classes to print out warnings and errors on
  a terminal.  This applications is a simple GUI to turn on or off
  these messages.

@@ -1,8 +1,11 @@
-kdebugsettings (15.12.2-1~) UNRELEASED; urgency=medium
+kdebugsettings (16.04.0-1~1.gbp8abab8) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @8abab8f6d6bf18c5f436bfd5632a47ffb5424295 **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:44:57 +0100
+  * Bump Standards-Version to 3.9.8
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 01:53:11 +0200
 
 kdebugsettings (15.12.1-1) experimental; urgency=medium
 

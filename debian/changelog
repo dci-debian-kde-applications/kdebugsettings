@@ -1,6 +1,6 @@
-kdebugsettings (16.04.0-1~2.gbp0d256a) UNRELEASED; urgency=medium
+kdebugsettings (16.04.1-1~1.gbp23189c) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @0d256a87793ba2e6b19544f9e0eb0a972eb0c9b7 **
+  ** SNAPSHOT build @23189c4996df81abd5ba74768f08af6ab988222c **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @8abab8f6d6bf18c5f436bfd5632a47ffb5424295 **
@@ -14,8 +14,9 @@ kdebugsettings (16.04.0-1~2.gbp0d256a) UNRELEASED; urgency=medium
   * No curly brackets in the trap call
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 12:53:15 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 19:53:10 +0200
 
 kdebugsettings (15.12.1-1) experimental; urgency=medium
 

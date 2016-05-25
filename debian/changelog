@@ -1,10 +1,6 @@
-kdebugsettings (16.04.1-1~1.gbp23189c) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @23189c4996df81abd5ba74768f08af6ab988222c **
+kdebugsettings (16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @8abab8f6d6bf18c5f436bfd5632a47ffb5424295 **
-
   * Bump Standards-Version to 3.9.8
   * Add a .gitattributes file to use dpkg-mergechangelogs
 
@@ -14,9 +10,8 @@ kdebugsettings (16.04.1-1~1.gbp23189c) UNRELEASED; urgency=medium
   * No curly brackets in the trap call
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 19:53:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 25 May 2016 11:53:29 +0200
 
 kdebugsettings (15.12.1-1) experimental; urgency=medium
 

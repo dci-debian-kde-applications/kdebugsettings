@@ -1,12 +1,13 @@
-kdebugsettings (16.08.1-1~1.gbpd7f639) UNRELEASED; urgency=medium
+kdebugsettings (16.08.2-1~1.gbpa51f0f) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @d7f639a9efa75c79bebd552878133df21046822e **
+  ** SNAPSHOT build @a51f0f810a3846791870975d5ab7c21ec9bdc55b **
 
   * UNRELEASED
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 19:53:34 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 19:53:28 +0200
 
 kdebugsettings (16.04.2-1) unstable; urgency=medium
 

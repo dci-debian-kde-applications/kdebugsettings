@@ -1,10 +1,8 @@
-kdebugsettings (16.08.3-1~1.gbpd182c3) UNRELEASED; urgency=medium
+kdebugsettings (16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @d182c3dc5f2f4a9f87734c97ba8f625516b85a99 **
+  * New upstream release (16.08.3)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 19:53:27 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 21:08:04 +0100
 
 kdebugsettings (16.08.2-1) unstable; urgency=medium
 

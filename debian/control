@@ -22,7 +22,7 @@ Build-Depends: cmake (>= 2.8.12),
 Standards-Version: 3.9.8
 Homepage: https://projects.kde.org/projects/kde/kdeutils/kdebugsettings
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kdebugsettings.git/
-Vcs-Git: https://anonscm.debian.org/git/pkg-kde/kde-applications/kdebugsettings.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kdebugsettings.git
 
 Package: kdebugsettings
 Architecture: any

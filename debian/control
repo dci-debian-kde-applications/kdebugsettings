@@ -19,7 +19,7 @@ Build-Depends: cmake (>= 3.0~),
                libkf5widgetsaddons-dev (>= 5.32.0~),
                pkg-kde-tools (>= 0.15.15ubuntu1~),
                qtbase5-dev (>= 5.7.0~),
-Standards-Version: 4.1.0
+Standards-Version: 4.1.1
 Homepage: https://projects.kde.org/projects/kde/kdeutils/kdebugsettings
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kdebugsettings.git/
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kdebugsettings.git
